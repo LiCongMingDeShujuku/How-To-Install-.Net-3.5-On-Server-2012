@@ -10,7 +10,6 @@
 
 - [中文](#中文)
 - [English](#English)
-- [SQL Logic](#Logic)
 - [Build Info](#Build-Info)
 - [Author](#Author)
 - [License](#License) 
@@ -55,13 +54,6 @@ Note: You can mount .iso files from the network. Just takes a minute longer to r
 Done.
 
 Might be a good idea to restart the server afterwords to ensure the OS picks up the changes, and of course will undo the ‘mount’. Otherwise you’ll lock the .iso and keep others from using it.
-
----
-## Logic
-```SQL
-
-
-```
 
 
 
